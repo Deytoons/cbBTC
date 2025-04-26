@@ -8,7 +8,7 @@ const path = require('path');
 
 const filePath = 'words.txt';
 
-const cbBTC_Token = "7430098072:AAGe6giyP6MVwlxdgOzhP5zGJvNkOZmKees"
+const cbBTC_Token = "YOUR_BOT_TOKEN"; //"7430098072:AAGe6giyP6MVwlxdgOzhP5zGJvNkOZmKees"
 
 const TOKEN = cbBTC_Token //'6505977434:AAEbH4fVXo2G3EllAUSx_Yzg9YeqkqleDfI';
 
